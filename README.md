@@ -1,7 +1,7 @@
 # diagram-in-comment-helper-jp.pa-i.qr
 
 - This is a wrapper script to isolate the phpqrcode.php process from the main process.
-- Original phpqrcode.php is from here: https://sourceforge.net/projects/phpqrcode/ (LGPL 3)
+- Original phpqrcode.php is here: https://sourceforge.net/projects/phpqrcode/ (LGPL 3)
 
 ```
  $ php qrtext.php 'phpqrcode'
